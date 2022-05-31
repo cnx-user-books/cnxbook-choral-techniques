@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Fermata</title>
+  <metadata>
+  <md:content-id>m20894</md:content-id><md:title>The Fermata</md:title>
+  <md:abstract>This module represents a discussion with examples of how to approach fermatas within a choral work.  It demonstrates different ways of handling fermatas as a conductor.</md:abstract>
+  <md:uuid>2e53b80b-3e8b-4a80-8805-e4fa9a726279</md:uuid>
+</metadata>
+
+<content>
+    <section id="id17578249">
+      <title>THE FERMATA</title>
+      <para id="id17499457">A fermata indicates a moment when the rhythmic motion of a composition ceases. There are basically two types of fermatas:</para>
+      <para id="id18299864">1. A fermata that contains two or more beats in the rhythm of the preceding passage.</para>
+      <para id="id18359073">2. A fermata of undetermined length.</para>
+      <para id="id17498495">There are instances when the fermata signifies the end of a previous tempo and the next note begins a new tempo. Fermatas are also often preceded by a slowing of the tempo into the fermata itself.</para>
+      <para id="id18361925">In moderate or slow tempos, or when a ritard is indicated, the conductor can show the coming of the fermata by a broadening of his conducting gestures. Except for sudden fermatas, this will be the guiding rule. In instances where the preceding note(s) is indicated with a ritard, the broadening will be coupled with a slowing of the tempo at that point, into the fermata.</para>
+      <para id="id19413264">If the tempo of the piece resumes, the cutoff of the fermata can often be used as the preparation of the next entrance. Figure 1 is an example where the end of the fermata can be the prepatoration for the next entrance.  The conductor must be careful to have the hands in a high position at the end of the fermata that will allow him to continue with ease.</para>
+      <figure id="id16645234"><media id="id16645234_media" alt="">
+		<image mime-type="image/png" src="../../media/fermata.png" id="id16645234__onlineimage" height="189" width="480"/>
+	</media>
+</figure>
+      <para id="id18758212">If the fermata is to be followed by a pause either indicated by a rest or by a stylistic implication in the score, the cutoff will be a complete gesture in itself. The conductor will then need to indicate the next entrance as he would any new entrance.</para>
+      <para id="id17564962">If the fermata is followed by a change of tempo, the preparation must be in the new tempo. One example of this type of fermata is seen in figure 2.</para>
+      <figure id="id17564966"><media id="id17564966_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-22.png" id="id17564966__onlineimage" height="123" width="550"/>
+	</media>
+</figure>
+      <para id="id16492416">The question is often raised as to whether or not the conductor should continue to beat time during a fermata. In most instances a conductor should not conduct a part of a beat pattern during a fermata. Instead, the right hand might continue to move slowly, giving the ensemble an indication to keep the tone vibrant during the fermata. This is not the case with all fermatas, however. Some fermatas contain no internal rhythm (at least none that will warrant conducting motion). These fermatas can be held with the arms raised and extended. Avoid holding the arms with the palms up in these instances. One has no control over the ensemble with the hands in this position. The conductor will maintain a better conducting gesture if the palms face inward and the hands remain slightly cupped (if a baton is not being used).</para>
+      <para id="id18361643">Works that contain examples of fermatas:</para>
+      <para id="id18362376">1. <emphasis effect="italics">Break Forth, O Beauteous Heavenly Light, </emphasis>Bach, Lawson-Gould</para>
+      <para id="id17708096">2. <emphasis effect="italics">Psalm 150, </emphasis>Schutz, Robert King Music Co. # 601</para>
+      <para id="id18360812">3. <emphasis effect="italics">A Boy Was Born, </emphasis>Britten, Oxford University Press, # 84.092</para>
+      <para id="id18323113">4. <emphasis effect="italics">Twenty-one Chorales, </emphasis>Bach, Schmitt, Hall, and McCreary</para>
+      <para id="id17497501">5. <emphasis effect="italics">Why Are the Roses So Pale?, </emphasis>Carr, G. Schirmer, Inc.</para>
+    </section>
+  </content>
+</document>

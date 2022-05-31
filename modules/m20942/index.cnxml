@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Unmetered or Free Rhythms</title>
+  <metadata>
+  <md:content-id>m20942</md:content-id><md:title>Unmetered or Free Rhythms</md:title>
+  <md:abstract>This module represents conducting and performance solutions to unmetered or free rhythmic passages.  Two musical examples are provided, one unison and one with parts, for understanding and for practice.</md:abstract>
+  <md:uuid>7caa53c8-5dd2-45e5-9188-089c3695b77d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id19520465">
+      <title>UNMETERED OR FREE RHYTHMS</title>
+      <para id="id3629133">Chant or passages that do not have rhythmic or metric indications create special conducting problems. Two examples follow that illustrate both situations. Figure 1 illustrates a passage in which the meter is purposely omitted, preventing any misunderstanding of a metric pulse. The conductor should be reminded not to arbitrarily divide the passage into measures. At one level each note is important unto itself and by expanding each note slightly this importance is realized without interrupting the flow but also without forming an obvious metric pattern.  This would undo the composer's intentions. In these instances the stress will be governed by the text. The most important words or syllables will receive slightly more weight (stress, not accent) than others. Avoid any metric pulse that will give the effect of a standardized meter.</para>
+      <figure id="id14968020"><media id="id14968020_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-17.png" id="id14968020__onlineimage" height="83" width="480"/>
+	</media>
+</figure>
+<figure id="id14968021"><media id="id14968021_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-18.png" id="id14968021__onlineimage" height="650" width="480"/>
+	</media></figure>
+      <para id="id19504972">The example in figure 2, above, is a chant in which the composer has placed all of the text over a single whole note. This prevents the association of any rhythmic values to the text itself. In this instance the conductor will find the best solution by repeatedly singing the words himself until he finds the combination that he feels will be most comfortable, most musical, and indicative of the composer's desires.</para>
+
+
+
+
+      <para id="id12803894">Works that contain examples of free rhythm:</para>
+      <para id="id3480923">1. <emphasis effect="italics">Psalm 90, </emphasis>Ives, Mercury Music Corporation</para>
+      <para id="id19432712"><emphasis effect="italics">2. Psalm 67, </emphasis>Ives, Associated Music Publishers</para>
+      <para id="id5087750">3. <emphasis effect="italics">Hodie (Ceremony of Carols) </emphasis>Britten, Boosey and Hawkes</para>
+      <para id="id3478008">4. <emphasis effect="italics">Magnificat and Nunc Dimittis, </emphasis>Willan, H. W. Gray #2044</para>
+    </section>
+  </content>
+</document>

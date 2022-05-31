@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conducting Asymmetrical Beat Patterns</title>
+  <metadata>
+  <md:content-id>m20798</md:content-id><md:title>Conducting Asymmetrical Beat Patterns</md:title>
+  <md:abstract>This module demonstrates and illustrates asymmetrical beat patterns.</md:abstract>
+  <md:uuid>f99385f3-29f7-404c-bd40-6fe0200b1e44</md:uuid>
+</metadata>
+
+<content>
+    <section id="id11840925">
+      <title>ASYMMETRICAL PATTERNS</title>
+      <para id="id6373732">Music that is written in asymmetrical (irregular) meters is most often conducted in a modification of one of the previously described patterns. The patterns for irregular meters are not as standard as the other patterns because they are not used as often. These patterns usually adapt easily because most of the 5/4, 7/4, and other similar irregular meters are combinations: 3 + 2 (5/4), 2 + 3 (5/4), or 4 + 3 (7/4), 3 + 4 (7/4), etc. There are other combinations but the above are found more frequently. There are also instances in which irregular meters are truly pure 5/4, 7/4, or other irregular groupings. These instances are in the minority, however.</para>
+      <para id="id8728446">Several possible ways to conduct five-beat measures are given in figure 1. The pattern to use is the one that is most appropriate to the music and most comfortable for the conductor. (Also see the discussion of fast tempos.)</para>
+      <figure id="id3864186"><media id="id3864186_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-13.png" id="id3864186__onlineimage" height="168" width="480"/>
+	</media>
+</figure>
+      <para id="id3669391">A seven-beat measure has the same type of implications as the five-beat bar. The patterns in figure 2 are usable in most situations. One may encounter other more unusual orderings of the rhythmic relationships within the measure that will demand a different pattern. The conductor must deal with these instances individually and modify the patterns as needed.</para>
+      <figure id="id8547858"><media id="id8547858_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-14.png" id="id8547858__onlineimage" height="162" width="480"/>
+	</media>
+</figure>
+      <para id="id9986703">Pattern a is a modified and divided four pattern with the last gesture eliminated. It is quite effective for measures that are not combinations of 3 + 4 or 4 + 3. It is effective, for instance, for 2 + 2 + 2 + 1. Patterns <emphasis effect="italics">b </emphasis>and <emphasis effect="italics">c </emphasis>work well for the combination measures. (See also the discussion on fast tempos.)</para>
+    </section>
+  </content>
+</document>

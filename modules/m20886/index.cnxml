@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Change of Tempo</title>
+  <metadata>
+  <md:content-id>m20886</md:content-id><md:title>Change of Tempo</md:title>
+  <md:abstract>This module represents a discussion and includes examples of aids for the conductor to handle tempo changes within a piece of music.</md:abstract>
+  <md:uuid>c3497e77-3446-4079-924a-68f2c6a76d90</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8610884">
+      <title>CHANGE OF TEMPO</title>
+      <para id="id6606676">One of the most problematic moments of any musical composition is the moment when it changes tempo. There can be a few chaotic measures while the ensemble and the conductor search for the new tempo. This search is sometimes made separately, to the embarrassment of the audience as well as the performers. There are a few points that will serve to aid a conductor in changing tempos.</para>
+      <para id="id5174303">Unless the music is marked with a ritard or similar marking that would slow the tempo, do not slow the last one or two beats of the first tempo, when it is followed by a slower tempo. The reverse would also be true. The tempo change begins with the first beat of the next measure where the indication of the change of tempo is located.</para>
+      <para id="id5269013">The length of time between the final beat of the first tempo and the first beat of the new tempo must remain in the first tempo. Often conductors will reflect the new tempo in the final motion connected with the last beat of the first tempo. Many conductors anticipate the new tempo in this manner, often destroying the musical intention of the composer. The new tempo will be indicated by the distance between the first and second beats of the new tempo. If the tempo is to be faster, for instance, less time and distance between beats will give the ensemble the proper indication of the change.</para>
+      <para id="id12403715">The example in figure 1 shows a change from <media id="id10942952" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media>  60 or <media id="id10942953" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media>  80 to <media id="id10942954" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media>  120. The use of two tempo markings is strictly for pedagogical purposes. This example can serve as a practice device for conducting tempo changes. Conductors should practice the above example using both <media id="id10942955" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media>  60 and <media id="id10942956" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 80 as the first tempo.
+</para>
+      
+      
+      
+      
+      <para id="id2921590">As a conductor examines tempo changes, he needs to first determine the relationship between the first tempo and the second tempo. In the example in figure 1 <media id="id10942986" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 60 to <media id="id10942987" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 120 exactly doubles the tempo. The eighth note of the first tempo becomes the quarter note of the second tempo. A mental subdivision to eighth notes by the conductor as he approaches the tempo change ensures an accurate second tempo. The conductor thinks the eighth note and at the tempo change the eighth note becomes the quarter note in the new tempo.</para>
+      <para id="id3445778">The change from <media id="id10942984" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 80 to <media id="id10942935" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 60 to <media id="id10942936" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 120 is not as simple. In this instance the conductor should think in a subdivision of eighth note triplets in <media id="id10942937" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 80. Each eighth note of the triplet figure becomes an eighth note in the new ( <media id="id10942934" alt=""><image src="../../media/note-and-equal-sign.png" mime-type="image/png" height="15" width="18"/></media> 120) tempo. The relationship of each change is shown below.</para>
+      <figure id="id10778239"><media id="id10778239_media" alt="">
+		<image mime-type="image/png" src="../../media/figure-1-23.png" id="id10778239__onlineimage" height="225" width="500"/>
+	</media>
+</figure>
+      <figure id="id4733831"><media id="id4733831_media" alt="">
+		<image mime-type="image/png" src="../../media/page-87.png" id="id4733831__onlineimage" height="148" width="500"/>
+	</media>
+</figure>
+      <para id="id11679750">Not all tempo changes will have such relationships but many will, and conductors should examine the score carefully for aids to tempo accuracy.</para>
+    </section>
+  </content>
+</document>
